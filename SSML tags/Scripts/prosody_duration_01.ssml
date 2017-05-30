@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://www.w3.org/2001/10/synthesis
+        		   http://www.w3.org/TR/speech-synthesis11/synthesis.xsd"
+		 xml:lang="en-US">
+<prosody rate="-10%">
+It’s a familiar and ongoing feud: baby boomers in one corner and millennials in the other. It seems the two generations are constantly at each other’s throats.
+
+It’s a familiar and ongoing feud: <prosody duration='1200ms'>baby boomers</prosody> in one corner and <prosody duration='1200ms'>millennials</prosody> in the other. It seems the two <prosody duration='1200ms'>generations</prosody> are constantly at each other’s throats.
+</prosody>
+</speak>
