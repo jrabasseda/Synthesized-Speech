@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://www.w3.org/2001/10/synthesis
+        		   http://www.w3.org/TR/speech-synthesis11/synthesis.xsd"
+		 xml:lang="en-US">
+Packed with poison and supremely adaptable, the dreaded cane toad, or Bufo marinus, has few friends in Australia, where a massive scientific and community effort has failed to stop their advance.
+
+<prosody rate='-10%'>
+Packed with poison and supremely adaptable, the dreaded cane toad, or Bufo marinus, has few friends in Australia, where a massive scientific and community effort has failed to stop their advance. 
+</prosody>
+</speak>
