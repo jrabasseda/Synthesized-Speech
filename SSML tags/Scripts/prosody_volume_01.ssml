@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://www.w3.org/2001/10/synthesis
+        		   http://www.w3.org/TR/speech-synthesis11/synthesis.xsd"
+		 xml:lang="en-US">
+<prosody rate="-10%">
+"I might be a bit crook and a bit scarred, but I'm OK and I'm really going to claw my way back - and I really want to do something with my life.
+
+"Sometimes in life it takes a knock to remember what we really value!"
+
+"<prosody volume='-30%'>I might be a bit crook and a bit scarred</prosody>, but I'm <prosody volume='+1dB'>OK</prosody> and I'm really going to claw my way back - and I really want to do something with my life.
+
+<prosody volume='+20%'>"Sometimes in life it takes a knock to remember what we really value!"</prosody>
+</prosody>
+</speak>
