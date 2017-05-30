@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://www.w3.org/2001/10/synthesis
+        		   http://www.w3.org/TR/speech-synthesis11/synthesis.xsd"
+		 xml:lang="en-US">
+<prosody rate="-10%">
+The Syrian Observatory for Human Rights said the building in al-Mansoura was being used as a shelter for displaced people when it was hit on Monday night.
+
+The <prosody pitch='+10Hz'>Syrian Observatory for Human Rights</prosody> said the building in al-Mansoura was being used <prosody pitch='+10Hz'>as a shelter</prosody> for displaced people when it was <prosody pitch='+10Hz'>hit</prosody> on Monday night.
+
+</prosody>
+</speak>
