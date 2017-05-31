@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://www.w3.org/2001/10/synthesis
+        		   http://www.w3.org/TR/speech-synthesis11/synthesis.xsd"
+		 xml:lang="en-US">
+<prosody rate="-10%">
+The deal will result in a stock market listing for the bank.
+
+The deal <usel pitch='0.5'>will</usel> result in a stock market <usel pitch='2'>listing</usel> for the bank.
+</prosody>
+</speak>
