@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE apml SYSTEM "apml.dtd" []>
+<apml>
+	He bit this finger.
+<performative type="inform">
+<theme> He bit </theme>
+<rheme><emphasis x-pitchaccent="Hstar">this</emphasis> finger
+</rheme>
+</performative>
+</apml>

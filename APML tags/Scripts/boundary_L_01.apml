@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE apml SYSTEM "apml.dtd" []>
+<apml>
+	I unfortunately have no time on Monday afternoon.
+<performative type="inform">
+	I unfortunately have no time<boundary type="L"/>
+	on Monday afternoon
+</performative>
+</apml>

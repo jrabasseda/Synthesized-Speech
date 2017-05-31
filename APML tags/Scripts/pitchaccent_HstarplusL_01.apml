@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE apml SYSTEM "apml.dtd" []>
+<apml>
+Marcel admires the woman who directed the musical.
+Marcel <emphasis x-pitchaccent="HstarplusL">admires</emphasis> the woman who directed the musical.
+</apml>

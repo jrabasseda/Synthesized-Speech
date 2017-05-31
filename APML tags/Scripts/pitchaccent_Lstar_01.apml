@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE apml SYSTEM "apml.dtd" []>
+<apml>
+Can you tell me the time?
+Can you tell me the <emphasis x-pitchaccent="Lstar">time</emphasis>?
+</apml>

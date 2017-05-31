@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE apml SYSTEM "apml.dtd" []>
+<apml>
+	Marcel admires the woman who directed the musical.
+<performative type="inform">
+<theme> Marcel
+<emphasis x-pitchaccent="LplusHstar">admires</emphasis>
+</theme>
+<rheme> the woman who directed the musical
+</rheme>
+</performative>
+</apml>

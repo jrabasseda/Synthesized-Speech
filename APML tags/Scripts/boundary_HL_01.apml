@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE apml SYSTEM "apml.dtd" []>
+<apml>
+Jacob. Your lunch is ready.
+Jacob<boundary type="HL"/>. Your lunch is ready<boundary type="HL"/>.
+</apml>
