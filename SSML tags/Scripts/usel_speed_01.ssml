@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://www.w3.org/2001/10/synthesis
+        		   http://www.w3.org/TR/speech-synthesis11/synthesis.xsd"
+		 xml:lang="en-US">
+<prosody rate="-10%">
+There has been a further fall in the number of crimes in Scotland, according to the latest figures.
+
+There has been a <usel speed='1.6'>further</usel> fall in the number of crimes in <usel speed='-2'>Scotland</usel>, <usel speed='2'>according</usel> to the latest figures.
+</prosody>
+</speak>

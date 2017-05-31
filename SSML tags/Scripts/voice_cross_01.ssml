@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://www.w3.org/2001/10/synthesis
+        		   http://www.w3.org/TR/speech-synthesis11/synthesis.xsd"
+		 xml:lang="en-US">
+"When people leave a tip for staff, in a restaurant or anywhere else, they have a right to know that it will not be used to make up the minimum wage."
+"When people leave a tip for staff, in a restaurant or anywhere else, they have a right to know that it will<voice emotion='cross'> not be used</voice> to make up the minimum wage."
+</prosody>
+</speak>
