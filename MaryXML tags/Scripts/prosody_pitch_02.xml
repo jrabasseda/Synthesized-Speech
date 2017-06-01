@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<maryxml version="0.4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://mary.dfki.de/2002/MaryXML"
+xml:lang="en-US">
+<prosody rate="-5%">
+The Syrian Observatory for Human Rights said the building in al-Mansoura was being used as a shelter for displaced people when it was hit on Monday night.
+
+The <prosody pitch='+20%'>Syrian Observatory for Human Rights</prosody> said the building in al-Mansoura was being used <prosody pitch='+10%'>as a shelter</prosody> for displaced people when it was <prosody pitch='-10%'>hit</prosody> on Monday night.
+</prosody>
+</maryxml>

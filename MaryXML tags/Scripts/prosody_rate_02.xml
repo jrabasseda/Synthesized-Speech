@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<maryxml version="0.4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://mary.dfki.de/2002/MaryXML"
+xml:lang="en-US">
+<prosody rate='+20%'>
+Packed with poison and supremely adaptable, the dreaded cane toad, or Bufo marinus, has few friends in Australia, where a massive scientific and community effort has failed to stop their advance.
+</prosody>
+
+<prosody rate='-10%'>
+Packed with poison and supremely adaptable, the dreaded cane toad, or Bufo marinus, has few friends in Australia, where a massive scientific and community effort has failed to stop their advance. 
+</prosody>
+</maryxml>

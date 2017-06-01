@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<maryxml version="0.4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://mary.dfki.de/2002/MaryXML"
+xml:lang="en-US">
+<prosody rate="-5%">
+It’s a familiar and ongoing feud: baby boomers in one corner and millennials in the other. It seems the two generations are constantly at each other’s throats.
+
+It’s a familiar and ongoing feud: <prosody duration='1200ms'>baby boomers</prosody> in one corner and <prosody duration='1200ms'>millennials</prosody> in the other. It seems the two <prosody duration='1200ms'>generations</prosody> are constantly at each other’s throats.
+</prosody>
+</maryxml>
