@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.w3.org/2001/10/synthesis
+          http://www.w3.org/TR/speech-synthesis11/synthesis.xsd"
+xml:lang="de-DE">
+<prosody rate='-10%'>
+The plane is the largest in the world based on wingspan, measuring 385 feet, which is longer than a NFL football field.<break time='2s'/>
+
+The Stratolaunch aircraft features two cockpits and six Boeing 747 engines<break time='600ms'/>It's capable of carrying payloads up to 550,000 pounds.<break time='2s'/>
+
+Allen founded the company in 2011 as part of a plan to make travel to low Earth orbit more accessible<break time='600ms'/>
+</prosody>
