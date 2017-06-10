@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE apml SYSTEM "apml.dtd" []>
+<apml>
+There is orange juice, and apple juice.
+There is <emphasis x-pitchaccent="LplusHstar">orange</emphasis> juice<boundary type="LH"/>, and <emphasis x-pitchaccent="Hstar">apple</emphasis> juice<boundary type="LL"/>.
+</apml>

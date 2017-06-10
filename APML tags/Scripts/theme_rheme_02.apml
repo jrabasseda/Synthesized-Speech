@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE apml SYSTEM "apml.dtd" []>
+<apml>
+Does Mary like green corduroy or green velvet?
+Mary likes the green corduroy.
+<emphasis x-pitchaccent="LplusHstar">Mary likes</emphasis><boundary type="LH"/> <emphasis x-pitchaccent="Hstar">the green corduroy</emphasis><boundary type="LL"/>.
+</apml>
