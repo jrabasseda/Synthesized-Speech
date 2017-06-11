@@ -1,0 +1,12 @@
+<!--Breaks weak-->
+<?xml version="1.0" encoding="UTF-8" ?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.w3.org/2001/10/synthesis http://www.w3.org/TR/speech-synthesis/synthesis.xsd"
+  xml:lang="en-US">
+Addicaid's free app helps those with a gamut of addictions, ranging from alcohol, heroin and opiates to gambling, codependency and porn.<break time='1000ms'/>
+
+Users can report information about their personality and situations that make them more likely to use drugs, like hanging out with certain friends or being alone.<break time='1000ms'/>
+
+Through a combination of machine learning, adaptive artificial intelligence and clinical research, Addicaid personalizes programs for users.
+</speak>
